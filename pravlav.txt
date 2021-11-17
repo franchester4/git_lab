@@ -1,2 +1,6 @@
 Where is your favorite place to go?
+<<<<<<< HEAD
 BROWN UNIVERSITY
+=======
+The lake by my house. 
+>>>>>>> 305235f92922cb42492bc7f6c435dda3ab46a41d
